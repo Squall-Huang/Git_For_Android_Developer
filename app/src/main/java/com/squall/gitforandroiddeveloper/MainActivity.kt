@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Change 2")
+        println("This line will be merged")
     }
 }
